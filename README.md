@@ -1,6 +1,6 @@
 # Style Guide Wiki
 ## Introduction
-The purpose of this reposistory is to present a style guide along with a guide explaining how to apply mechanical editing to a file using track changes in MS word in a Wiki format.
+The purpose of this reposistory is to present a style guide along with a tutorial explaining how to apply mechanical editing to a file using track changes in MS word. The repository has been written in a Wiki format.
 ## Table of Contents
 <ol>
   <li> Home </b> </li>
